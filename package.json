@@ -3,6 +3,8 @@
     "gulp": "*",
     "gulp-babel": "*",
     "gulp-sourcemaps": "*",
-    "source-map-support": "*"
+    "source-map-support": "*",
+
+    "restify": "3.0.3"
   }
 }
